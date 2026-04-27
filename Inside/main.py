@@ -7,8 +7,7 @@
 #TODO:
 #Beta:
 #LLM_interact.py -> DB_script.py -> Space_script.py -> RAG.py -> Simple UI (chat, space creation, space deletion, check request history) -> Github release
-#Also need logo :)
-
+#Also need logo :)!
 
 #Full Version:
 ##Web_crawler (gives info from web to RAG) -> Github commit
