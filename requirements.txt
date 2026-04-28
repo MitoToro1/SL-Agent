@@ -4,3 +4,5 @@ soundfile
 vosk
 sqlalchemy
 langchain_gigachat
+streamlit
+pyinstaller
