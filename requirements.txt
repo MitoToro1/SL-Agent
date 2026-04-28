@@ -1,0 +1,6 @@
+numpy
+librosa
+soundfile
+vosk
+sqlalchemy
+langchain_gigachat

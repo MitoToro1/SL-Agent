@@ -47,11 +47,3 @@ try:
 except Exception as e:
     print(f"---[] Main imports couldn't load!\nError:{e}")
 
-
-print(compile_answer("название для морских львов на латыни", r'C:\Users\User\Desktop\SL-Agent\Spaces\test').content)
-# change_spaceName('old_space', 'test')
-
-a = DataBase(Path('C:\\Users\\User\\Desktop\\SL-Agent\\Spaces\\test'))
-print("=== DATABASE CONTENTS ===")
-pprint(a.DB_view())
-print("=== DATABASE CONTENTS ===")
